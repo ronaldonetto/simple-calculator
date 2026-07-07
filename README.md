@@ -3,15 +3,15 @@
 
 Calculadora simples criada em C++ para testar meus conhecimentos na linguagem.
 
-Sua principal função é fazer cálculos de operações básicas de matemática, utilizando apenas dois números de ponnto flutuantes.
+Sua principal função é fazer cálculos com operações básicas de matemática, utilizando apenas dois números de pontos flutuantes.
 
-Quando o programa for inciado, vai exibido um menu para o usuário escolher se deseja sair ou continuar usando o programa.
+## Objetivos
 
-Em seguida outro menu é mostrado para ao usuário para que ele escolha qual tipo de operação matemática deseja realizar(adição, subtração, multiplicação, divisão).
+Quando o programa for inciado, vai ser exibido um menu para o usuário escolher se deseja sair ou continuar usando o programa.
 
-Após escolher a função desejada, o programa faz o cálculo e exibe o resultado final na tela.
+Após o usuário confirmar sua escolha, outro menu é mostrado para que ele escolha qual tipo de operação matemática deseja realizar (adição, subtração, multiplicação e divisão).
 
-
+Quando a função matemática desejada for esoolhida, o programa pede os dois números, faz  o cálculo e exibe o resultado final na tela.
 
 ## 🎯 Funções 
   
